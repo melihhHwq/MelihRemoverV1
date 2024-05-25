@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const watching = ["Taplepleri"];
+const statusMessages = ["Talepleri izliyor"];
 
 
 let currentIndex = 0;
